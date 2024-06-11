@@ -1,6 +1,12 @@
-### Hi there 👋
+# Repositório pessoal de versionamento de fontes
 
-Meu primeiro projeto.
+- 🔭 Atualmente sou Tech Leader de um time de dados.
+- 🌱 Atualmente estou cursando MBA em Inteligência Artificial
+
+
+> Estudos e Desafios
+
+
 
 <!--
 **ThiagoReolon/ThiagoReolon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +14,7 @@ Meu primeiro projeto.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
