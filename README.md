@@ -1,7 +1,7 @@
 # Repositório pessoal de versionamento de fontes
 
-- 🔭 Atualmente sou Tech Leader de um time de dados.
-- 🌱 Atualmente estou cursando MBA em Inteligência Artificial
+- Desenvolvedor RPA / Python / SQL Developer na SICREDI.
+- Estou cursando MBA em Inteligência Artificial
 
 
 > Estudos e Desafios
